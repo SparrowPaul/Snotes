@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Snotes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Exit</string>
+    <string name="write_something">Write Something</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">Secure Note</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+
+    <string name="note2">Your Privacy Our Priority</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+</resources>
